@@ -1,8 +1,0 @@
-Ordem de ações de implementação de uma funcionalidade:
-
-1° - Se da um fork no repositório
-2° - Se cria uma nova branch baseada na main
-3° - Criar a funcionalidade e se da os commits necessários
-4° - Cria um PULL REQUEST para dar merge na branch e main
-5° Vai haver uma análise e o PULL REQUEST será aprovado (ou não)
-6° Deleta a branch da nova funcionalidade
